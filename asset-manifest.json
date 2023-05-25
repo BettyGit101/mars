@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mars/static/css/main.37ca9fc9.css",
+    "main.css": "/mars/static/css/main.b491364c.css",
     "main.js": "/mars/static/js/main.d2227a92.js",
     "static/media/curiosityRover.jpg": "/mars/static/media/curiosityRover.93d8c4cef68fb7252e03.jpg",
     "static/media/revicons.eot": "/mars/static/media/revicons.a77de540a38981833f9e.eot",
@@ -8,11 +8,11 @@
     "static/media/search_icon.png": "/mars/static/media/search_icon.65fcf57a91f1111d0944.png",
     "static/media/revicons.woff": "/mars/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mars/index.html",
-    "main.37ca9fc9.css.map": "/mars/static/css/main.37ca9fc9.css.map",
+    "main.b491364c.css.map": "/mars/static/css/main.b491364c.css.map",
     "main.d2227a92.js.map": "/mars/static/js/main.d2227a92.js.map"
   },
   "entrypoints": [
-    "static/css/main.37ca9fc9.css",
+    "static/css/main.b491364c.css",
     "static/js/main.d2227a92.js"
   ]
 }
