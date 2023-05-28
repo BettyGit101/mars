@@ -1,0 +1,30 @@
+.carousel {
+    display: flex;
+    flex-direction: column;
+}
+
+.carousel_navigation {
+    display: flex;
+    align-items: center;
+}
+
+.carousel_arrow {
+    width: 10rem;
+    height: 8vh;
+    width: 3vw;
+    filter: invert(100%) sepia(31%) saturate(4098%) hue-rotate(307deg) brightness(96%) contrast(82%);
+}
+
+.carousel_arrow:hover {
+    cursor: pointer;
+}
+
+.carousel__arrow_width {
+    width: 5rem;
+}
+
+.carousel__page {
+    margin-top: 1rem;
+    margin-left: 68vw;
+    font-size: 1.2rem;
+}

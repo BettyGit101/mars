@@ -1,0 +1,40 @@
+@import '../index.scss';
+
+.rover {
+    width: 78vw;
+}
+
+.rover__about {
+    margin-bottom: 4rem;
+}
+
+.rover__info {
+    display: flex; 
+}
+
+.rover__img {
+    width: 26vw;
+    height: 30vh;
+    margin-right:3vw;
+}
+
+.rover__details {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.rover__buttons {
+    display:flex;
+}
+
+.rover__imgText {
+    display: inline-block;
+    margin-top: 2rem;
+    margin-left: 8vw;
+}
+
+.rover__notification {
+    color: $color-primary;
+    margin-top: 3rem;
+}

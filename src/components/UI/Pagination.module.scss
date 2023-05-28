@@ -1,0 +1,32 @@
+@import '../../index.scss';
+
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.pagination__btn {
+    width: 40px;
+    height: 40px;
+    font-weight: 600;
+    margin: 0 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: transparent;
+    color: black;
+    border-color: #eee;
+}
+
+.pagination__btn:active {
+    font-weight: 900;
+    border-color: #101010;
+    background: $color-primary;
+    color: #101010;
+}
+
+.selected {
+    background-color: $color-primary;
+}

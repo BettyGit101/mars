@@ -1,0 +1,28 @@
+.weather {
+    width: 65vw;
+}
+
+.weather__header {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.weather__select {
+    border-radius: 5px;
+    color: #555;
+    font-size: 1.6rem;
+    padding: 2px 7px;
+    height: 2.5rem;
+    margin-left: 1rem;
+    margin-right: 70px;
+    width: 15rem;
+}
+
+.weather__dataCards {
+    height: 78vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
